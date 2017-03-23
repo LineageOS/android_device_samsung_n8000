@@ -18,5 +18,5 @@ PRODUCT_MANUFACTURER := samsung
 PRODUCT_BUILD_PROP_OVERRIDES += \
 	PRODUCT_NAME=GT-N8000 \
 	TARGET_DEVICE=GT-N8000 \
-	BUILD_FINGERPRINT="samsung/p4noterfxx/p4noterf:4.0.4/IMM76D/N8000XWALG9:user/release-keys" \
-	PRIVATE_BUILD_DESC="p4noterfxx-user 4.0.4 IMM76D N8000XWALG9 release-keys"
+	BUILD_FINGERPRINT="samsung/p4noterfxx/p4noterf:4.4.2/KOT49H/N8000XXUDPB1:user/release-keys" \
+	PRIVATE_BUILD_DESC="p4noterfxx-user 4.4.2 KOT49H N8000XXUDPB1 release-keys"

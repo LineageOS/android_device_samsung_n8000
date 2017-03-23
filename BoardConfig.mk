@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2012 The CyanogenMod Project
+# Copyright (C) 2017 The LineageOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -18,11 +18,10 @@
 -include device/samsung/n80xx-common/BoardConfigCommon.mk
 
 # Inline kernel building
-#FIXME NOT READY YET - NEEDS DEFCONFIG
 TARGET_KERNEL_SOURCE := kernel/samsung/smdk4412
-TARGET_KERNEL_CONFIG := cyanogenmod_n8000_defconfig
+TARGET_KERNEL_CONFIG := lineageos_n8000_defconfig
 
-#Bluetooth
+# Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/samsung/n8000/bluetooth
 
 # assert

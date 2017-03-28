@@ -1,5 +1,5 @@
 #
-# system.prop for n8000
+# system.prop for smdk4x12
 #
 
 dalvik.vm.dexopt-data-only=1
